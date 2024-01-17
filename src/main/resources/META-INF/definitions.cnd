@@ -1,0 +1,7 @@
+<jnt = 'http://www.jahia.org/jahia/nt/1.0'>
+<jmix = 'http://www.jahia.org/jahia/mix/1.0'>
+<arkmix = 'http://modules.se.jahia.org/arkolia/mix/1.0'>
+<arknt = 'http://modules.se.jahia.org/arkolia/nt/1.0'>
+<ark = 'http://modules.se.jahia.org/arkolia/1.0'>
+
+[arkmix:component] > jmix:droppableContent, jmix:editorialContent mixin
